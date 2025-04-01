@@ -1,1 +1,1 @@
-# conda-build-projects
+# Conda build sample projects
